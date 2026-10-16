@@ -1,0 +1,8 @@
+{
+  "name": "Truus",
+  "description": "Truus creative advertising agency website recreation featuring interactive motion cards, smooth Lenis scrolling, animated stickers, and video showreel.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
